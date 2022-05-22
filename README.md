@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ### Bem-vindo
 
 - 👨‍💻 Sou estudante de Ciência da computação na Uninove e atuo como suporte técnico na sustentação de sistemas, atuando na resolução de chamados na Stefanini
