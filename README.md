@@ -5,7 +5,7 @@
 👨‍💻 I'm graduate in computer science at Uninove, i work as a full stack junior developer at Stefanini providing support, maintenance and development
 
 ### Currently learning and practicing
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" widht="40" height="40" title="Csharp"/><img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40" title="Html5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="40" title="Css"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" widht="40" height="40" title="Csharp"/><img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" widht="40" height="40"/>
 
 ### Tools that I have already had contact with
 
