@@ -1,5 +1,5 @@
 ![Snake animation](https://github.com/renan403/renan403/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/renan403/renan403/blob/output/github-contribution-grid-snake.gif)
 ### Wellcome
 
 👨‍💻 I'm graduate in computer science at Uninove, i work as a full stack junior developer at Stefanini providing support, maintenance and development
