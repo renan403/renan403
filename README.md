@@ -1,6 +1,6 @@
 ### Wellcome
 
-👨‍💻 I'm graduate in computer science at Uninove, i work as a full stack junior developer at Stefanini providing support, maintenance and development
+👨‍💻 I'm graduate in computer science at Uninove, I work as a full stack junior developer at Stefanini providing support, maintenance and development
 
 ### Currently learning and practicing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" widht="40" height="40" title="Csharp"/><img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" widht="40" height="40"/>
